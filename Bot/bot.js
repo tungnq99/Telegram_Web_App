@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = "6470705029:AAG195byQyfzCRIdpSUfLrpxRAzkI5jl6M0";
+const TOKEN = "7172810267:AAFU5ig7LHB-m48nUfAZNKkX-bl9WExVrSw";
 const bot = new Telegraf(TOKEN);
 
 const web_link = "https://telegram-web-app-ebon.vercel.app/";
